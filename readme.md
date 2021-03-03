@@ -17,7 +17,7 @@ servidor AWS na prática.
 
 1. Dar um git clone no meu repositório: (O projeto está na branch: **assessment-backend-xp**)
 
-    > git clone https://thainanprado@bitbucket.org/thainanprado/assessment-backend-xp.git
+    > git clone https://github.com/thainan76/desafio-backend.git
 
 2. Logo em seguida, utilizar o script de SQL do banco de dados que está na pasta do projeto */sql* 
 **(ecommerce.sql)**, aonde estará as tabelas categorias/produtos.
