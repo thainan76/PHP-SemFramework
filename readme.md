@@ -15,7 +15,7 @@ servidor AWS na prática.
 
 ## Instalação
 
-1. Dar um git clone no meu repositório: (O projeto está na branch: **assessment-backend-xp**)
+1. Dar um git clone no meu repositório: (O projeto está na branch: **master**)
 
     > git clone https://github.com/thainan76/desafio-backend.git
 
